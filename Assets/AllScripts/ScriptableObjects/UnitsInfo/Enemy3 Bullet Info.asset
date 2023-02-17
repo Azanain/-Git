@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 4468929f682ba864c8274d572a7b98b3, type: 3}
+  m_Name: Enemy3 Bullet Info
+  m_EditorClassIdentifier: 
+  _moveSpeed: 10
+  _timeLife: 3
+  _damage: 10
+  _particle: {fileID: 0}
+  _audioClip: {fileID: 8300000, guid: 3803353b101212647b639b122979fba0, type: 3}
+  _unitInfo: {fileID: 11400000, guid: 7d3f38768aa3cb348998b6e317c993f7, type: 2}
